@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:plant_app/constants/my_theme.dart';
+import 'package:plant_app/THEME/my_theme.dart';
 import 'package:plant_app/splash.dart';
 
 void main() {
